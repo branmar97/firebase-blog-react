@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 0;
+}
+
+.header-nav a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #565673;
+    letter-spacing: 1.2px;
+}
+
+.header-nav a:hover {
+    color: #5f9ea0;
+}
